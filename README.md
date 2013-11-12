@@ -1,4 +1,4 @@
 corosync-backup-script
 ======================
 
-A basic Corosync configuration backup script
+A basic Corosync Config Backup Script
